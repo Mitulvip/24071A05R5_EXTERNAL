@@ -1,29 +1,19 @@
-## 📸 Output Screenshots
+# Authentication System
 
-### 🔹 Login Page (Validation Error)
+## Registration Page
 
-![Login Error](images/login-fail.png)
+### Validation Error
+![Registration Validation Error](register%20fail.png)
 
----
-
-### 🔹 Login Page (Successful Login)
-
-![Login Success](images/login-pass.png)
+### Registration Successful
+![Registration Successful](register%20pass.png)
 
 ---
 
-### 🔹 Register Page (Validation Error)
+## Login Page
 
-![Register Error](images/register.png)
+### Login Validation Error
+![Login Validation Error](login%20fail.png)
 
----
-
-### 🔹 Register Page (Successful Registration)
-
-![Register Success](images/register-success.png)
-
----
-
-### 📂 Folder Structure for Images
-
-Make sure your images are stored like this:
+### Login Successful
+![Login Successful](login%20pass.png)
